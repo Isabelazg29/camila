@@ -1,0 +1,389 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\isabe\\Downloads\\Glamping3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|c:\\users\\isabe\\downloads\\glamping3\\glamping_addventure2\\views\\inicio\\iniciarsesion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|solutionrelative:glamping_addventure2\\views\\inicio\\iniciarsesion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|c:\\users\\isabe\\downloads\\glamping3\\glamping_addventure2\\controllers\\recuperacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|solutionrelative:glamping_addventure2\\controllers\\recuperacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|c:\\users\\isabe\\downloads\\glamping3\\glamping_addventure2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|solutionrelative:glamping_addventure2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|c:\\users\\isabe\\downloads\\glamping3\\glamping_addventure2\\views\\inicio\\recuperar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|solutionrelative:glamping_addventure2\\views\\inicio\\recuperar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|c:\\users\\isabe\\downloads\\glamping3\\glamping_addventure2\\views\\inicio\\registrarse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|solutionrelative:glamping_addventure2\\views\\inicio\\registrarse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|c:\\users\\isabe\\downloads\\glamping3\\glamping_addventure2\\views\\inicio\\solicitarrecuperacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|solutionrelative:glamping_addventure2\\views\\inicio\\solicitarrecuperacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|c:\\users\\isabe\\downloads\\glamping3\\glamping_addventure2\\views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|solutionrelative:glamping_addventure2\\views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|c:\\users\\isabe\\downloads\\glamping3\\glamping_addventure2\\views\\roles\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|solutionrelative:glamping_addventure2\\views\\roles\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|c:\\users\\isabe\\downloads\\glamping3\\glamping_addventure2\\views\\usuarios\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|solutionrelative:glamping_addventure2\\views\\usuarios\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|c:\\users\\isabe\\downloads\\glamping3\\glamping_addventure2\\views\\roles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|solutionrelative:glamping_addventure2\\views\\roles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|c:\\users\\isabe\\downloads\\glamping3\\glamping_addventure2\\models\\servicios\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|solutionrelative:glamping_addventure2\\models\\servicios\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|c:\\users\\isabe\\downloads\\glamping3\\glamping_addventure2\\models\\servicios\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|solutionrelative:glamping_addventure2\\models\\servicios\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|c:\\users\\isabe\\downloads\\glamping3\\glamping_addventure2\\models\\tokensrecuperacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|solutionrelative:glamping_addventure2\\models\\tokensrecuperacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|c:\\users\\isabe\\downloads\\glamping3\\glamping_addventure2\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|solutionrelative:glamping_addventure2\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|c:\\users\\isabe\\downloads\\glamping3\\glamping_addventure2\\models\\glampingaddventurecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|solutionrelative:glamping_addventure2\\models\\glampingaddventurecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|c:\\users\\isabe\\downloads\\glamping3\\glamping_addventure2\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|solutionrelative:glamping_addventure2\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|c:\\users\\isabe\\downloads\\glamping3\\glamping_addventure2\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|solutionrelative:glamping_addventure2\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|c:\\users\\isabe\\downloads\\glamping3\\glamping_addventure2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|solutionrelative:glamping_addventure2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|c:\\users\\isabe\\downloads\\glamping3\\glamping_addventure2\\models\\tipodehabitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|solutionrelative:glamping_addventure2\\models\\tipodehabitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|c:\\users\\isabe\\downloads\\glamping3\\glamping_addventure2\\migrations\\20241106004641_tokenrecuperacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|solutionrelative:glamping_addventure2\\migrations\\20241106004641_tokenrecuperacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|c:\\users\\isabe\\downloads\\glamping3\\glamping_addventure2\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|solutionrelative:glamping_addventure2\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|c:\\users\\isabe\\downloads\\glamping3\\glamping_addventure2\\views\\usuarios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|solutionrelative:glamping_addventure2\\views\\usuarios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|c:\\users\\isabe\\downloads\\glamping3\\glamping_addventure2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71E335FD-6717-44F4-8180-4155FE67F664}|Glamping_Addventure2\\Glamping_Addventure2.csproj|solutionrelative:glamping_addventure2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Recuperar.cshtml",
+              "DocumentMoniker": "C:\\Users\\isabe\\Downloads\\Glamping3\\Glamping_Addventure2\\Views\\Inicio\\Recuperar.cshtml",
+              "RelativeDocumentMoniker": "Glamping_Addventure2\\Views\\Inicio\\Recuperar.cshtml",
+              "ToolTip": "C:\\Users\\isabe\\Downloads\\Glamping3\\Glamping_Addventure2\\Views\\Inicio\\Recuperar.cshtml",
+              "RelativeToolTip": "Glamping_Addventure2\\Views\\Inicio\\Recuperar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T00:58:18.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IniciarSesion.cshtml",
+              "DocumentMoniker": "C:\\Users\\isabe\\Downloads\\Glamping3\\Glamping_Addventure2\\Views\\Inicio\\IniciarSesion.cshtml",
+              "RelativeDocumentMoniker": "Glamping_Addventure2\\Views\\Inicio\\IniciarSesion.cshtml",
+              "ToolTip": "C:\\Users\\isabe\\Downloads\\Glamping3\\Glamping_Addventure2\\Views\\Inicio\\IniciarSesion.cshtml",
+              "RelativeToolTip": "Glamping_Addventure2\\Views\\Inicio\\IniciarSesion.cshtml",
+              "ViewState": "AgIAAIwAAABYzczMzMwnwKYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T00:29:58.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Registrarse.cshtml",
+              "DocumentMoniker": "C:\\Users\\isabe\\Downloads\\Glamping3\\Glamping_Addventure2\\Views\\Inicio\\Registrarse.cshtml",
+              "RelativeDocumentMoniker": "Glamping_Addventure2\\Views\\Inicio\\Registrarse.cshtml",
+              "ToolTip": "C:\\Users\\isabe\\Downloads\\Glamping3\\Glamping_Addventure2\\Views\\Inicio\\Registrarse.cshtml",
+              "RelativeToolTip": "Glamping_Addventure2\\Views\\Inicio\\Registrarse.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T21:28:30.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecuperacionController.cs",
+              "DocumentMoniker": "C:\\Users\\isabe\\Downloads\\Glamping3\\Glamping_Addventure2\\Controllers\\RecuperacionController.cs",
+              "RelativeDocumentMoniker": "Glamping_Addventure2\\Controllers\\RecuperacionController.cs",
+              "ToolTip": "C:\\Users\\isabe\\Downloads\\Glamping3\\Glamping_Addventure2\\Controllers\\RecuperacionController.cs",
+              "RelativeToolTip": "Glamping_Addventure2\\Controllers\\RecuperacionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T00:48:08.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\isabe\\Downloads\\Glamping3\\Glamping_Addventure2\\Program.cs",
+              "RelativeDocumentMoniker": "Glamping_Addventure2\\Program.cs",
+              "ToolTip": "C:\\Users\\isabe\\Downloads\\Glamping3\\Glamping_Addventure2\\Program.cs",
+              "RelativeToolTip": "Glamping_Addventure2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T01:10:19.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SolicitarRecuperacion.cshtml",
+              "DocumentMoniker": "C:\\Users\\isabe\\Downloads\\Glamping3\\Glamping_Addventure2\\Views\\Inicio\\SolicitarRecuperacion.cshtml",
+              "RelativeDocumentMoniker": "Glamping_Addventure2\\Views\\Inicio\\SolicitarRecuperacion.cshtml",
+              "ToolTip": "C:\\Users\\isabe\\Downloads\\Glamping3\\Glamping_Addventure2\\Views\\Inicio\\SolicitarRecuperacion.cshtml",
+              "RelativeToolTip": "Glamping_Addventure2\\Views\\Inicio\\SolicitarRecuperacion.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T01:37:23.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\isabe\\Downloads\\Glamping3\\Glamping_Addventure2\\Views\\Roles\\Index.cshtml",
+              "RelativeDocumentMoniker": "Glamping_Addventure2\\Views\\Roles\\Index.cshtml",
+              "ToolTip": "C:\\Users\\isabe\\Downloads\\Glamping3\\Glamping_Addventure2\\Views\\Roles\\Index.cshtml",
+              "RelativeToolTip": "Glamping_Addventure2\\Views\\Roles\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T00:26:26.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\isabe\\Downloads\\Glamping3\\Glamping_Addventure2\\Views\\Roles\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Glamping_Addventure2\\Views\\Roles\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\isabe\\Downloads\\Glamping3\\Glamping_Addventure2\\Views\\Roles\\Delete.cshtml",
+              "RelativeToolTip": "Glamping_Addventure2\\Views\\Roles\\Delete.cshtml",
+              "ViewState": "AgIAAEUAAAAALDMzMzMbwFoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T20:17:43.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\isabe\\Downloads\\Glamping3\\Glamping_Addventure2\\Views\\Usuarios\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Glamping_Addventure2\\Views\\Usuarios\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\isabe\\Downloads\\Glamping3\\Glamping_Addventure2\\Views\\Usuarios\\Delete.cshtml",
+              "RelativeToolTip": "Glamping_Addventure2\\Views\\Usuarios\\Delete.cshtml",
+              "ViewState": "AgIAAEgAAAAAbWZmZmYUwFwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T20:22:00.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\isabe\\Downloads\\Glamping3\\Glamping_Addventure2\\Views\\Roles\\Create.cshtml",
+              "RelativeDocumentMoniker": "Glamping_Addventure2\\Views\\Roles\\Create.cshtml",
+              "ToolTip": "C:\\Users\\isabe\\Downloads\\Glamping3\\Glamping_Addventure2\\Views\\Roles\\Create.cshtml",
+              "RelativeToolTip": "Glamping_Addventure2\\Views\\Roles\\Create.cshtml",
+              "ViewState": "AgIAACUAAACAn5mZmRkRwDUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T20:16:48.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\isabe\\Downloads\\Glamping3\\Glamping_Addventure2\\Models\\Servicios\\EmailService.cs",
+              "RelativeDocumentMoniker": "Glamping_Addventure2\\Models\\Servicios\\EmailService.cs",
+              "ToolTip": "C:\\Users\\isabe\\Downloads\\Glamping3\\Glamping_Addventure2\\Models\\Servicios\\EmailService.cs",
+              "RelativeToolTip": "Glamping_Addventure2\\Models\\Servicios\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T01:15:29.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\isabe\\Downloads\\Glamping3\\Glamping_Addventure2\\Models\\Servicios\\IEmailService.cs",
+              "RelativeDocumentMoniker": "Glamping_Addventure2\\Models\\Servicios\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\isabe\\Downloads\\Glamping3\\Glamping_Addventure2\\Models\\Servicios\\IEmailService.cs",
+              "RelativeToolTip": "Glamping_Addventure2\\Models\\Servicios\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T01:14:16.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TokensRecuperacion.cs",
+              "DocumentMoniker": "C:\\Users\\isabe\\Downloads\\Glamping3\\Glamping_Addventure2\\Models\\TokensRecuperacion.cs",
+              "RelativeDocumentMoniker": "Glamping_Addventure2\\Models\\TokensRecuperacion.cs",
+              "ToolTip": "C:\\Users\\isabe\\Downloads\\Glamping3\\Glamping_Addventure2\\Models\\TokensRecuperacion.cs",
+              "RelativeToolTip": "Glamping_Addventure2\\Models\\TokensRecuperacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T00:44:03.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InicioController.cs",
+              "DocumentMoniker": "C:\\Users\\isabe\\Downloads\\Glamping3\\Glamping_Addventure2\\Controllers\\InicioController.cs",
+              "RelativeDocumentMoniker": "Glamping_Addventure2\\Controllers\\InicioController.cs",
+              "ToolTip": "C:\\Users\\isabe\\Downloads\\Glamping3\\Glamping_Addventure2\\Controllers\\InicioController.cs",
+              "RelativeToolTip": "Glamping_Addventure2\\Controllers\\InicioController.cs",
+              "ViewState": "AgIAAGsAAAAAjszMzMwBwHEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T00:54:27.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GlampingAddventureContext.cs",
+              "DocumentMoniker": "C:\\Users\\isabe\\Downloads\\Glamping3\\Glamping_Addventure2\\Models\\GlampingAddventureContext.cs",
+              "RelativeDocumentMoniker": "Glamping_Addventure2\\Models\\GlampingAddventureContext.cs",
+              "ToolTip": "C:\\Users\\isabe\\Downloads\\Glamping3\\Glamping_Addventure2\\Models\\GlampingAddventureContext.cs",
+              "RelativeToolTip": "Glamping_Addventure2\\Models\\GlampingAddventureContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T00:49:13.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\isabe\\Downloads\\Glamping3\\Glamping_Addventure2\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Glamping_Addventure2\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\isabe\\Downloads\\Glamping3\\Glamping_Addventure2\\Models\\Role.cs",
+              "RelativeToolTip": "Glamping_Addventure2\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T00:51:49.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\isabe\\Downloads\\Glamping3\\Glamping_Addventure2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Glamping_Addventure2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\isabe\\Downloads\\Glamping3\\Glamping_Addventure2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Glamping_Addventure2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T00:48:48.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\isabe\\Downloads\\Glamping3\\Glamping_Addventure2\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Glamping_Addventure2\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\isabe\\Downloads\\Glamping3\\Glamping_Addventure2\\Models\\Usuario.cs",
+              "RelativeToolTip": "Glamping_Addventure2\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T00:42:18.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TipodeHabitacion.cs",
+              "DocumentMoniker": "C:\\Users\\isabe\\Downloads\\Glamping3\\Glamping_Addventure2\\Models\\TipodeHabitacion.cs",
+              "RelativeDocumentMoniker": "Glamping_Addventure2\\Models\\TipodeHabitacion.cs",
+              "ToolTip": "C:\\Users\\isabe\\Downloads\\Glamping3\\Glamping_Addventure2\\Models\\TipodeHabitacion.cs",
+              "RelativeToolTip": "Glamping_Addventure2\\Models\\TipodeHabitacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T00:47:36.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20241106004641_TokenRecuperacion.cs",
+              "DocumentMoniker": "C:\\Users\\isabe\\Downloads\\Glamping3\\Glamping_Addventure2\\Migrations\\20241106004641_TokenRecuperacion.cs",
+              "RelativeDocumentMoniker": "Glamping_Addventure2\\Migrations\\20241106004641_TokenRecuperacion.cs",
+              "ToolTip": "C:\\Users\\isabe\\Downloads\\Glamping3\\Glamping_Addventure2\\Migrations\\20241106004641_TokenRecuperacion.cs",
+              "RelativeToolTip": "Glamping_Addventure2\\Migrations\\20241106004641_TokenRecuperacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T00:46:42.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\isabe\\Downloads\\Glamping3\\Glamping_Addventure2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Glamping_Addventure2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\isabe\\Downloads\\Glamping3\\Glamping_Addventure2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Glamping_Addventure2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T00:27:27.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\isabe\\Downloads\\Glamping3\\Glamping_Addventure2\\Views\\Usuarios\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Glamping_Addventure2\\Views\\Usuarios\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\isabe\\Downloads\\Glamping3\\Glamping_Addventure2\\Views\\Usuarios\\Edit.cshtml",
+              "RelativeToolTip": "Glamping_Addventure2\\Views\\Usuarios\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T00:26:51.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\isabe\\Downloads\\Glamping3\\Glamping_Addventure2\\Views\\Usuarios\\Index.cshtml",
+              "RelativeDocumentMoniker": "Glamping_Addventure2\\Views\\Usuarios\\Index.cshtml",
+              "ToolTip": "C:\\Users\\isabe\\Downloads\\Glamping3\\Glamping_Addventure2\\Views\\Usuarios\\Index.cshtml",
+              "RelativeToolTip": "Glamping_Addventure2\\Views\\Usuarios\\Index.cshtml",
+              "ViewState": "AgIAAD8AAACAkpmZmZkuwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T00:26:22.622Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
